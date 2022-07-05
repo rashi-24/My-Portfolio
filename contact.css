@@ -1,0 +1,54 @@
+body {
+    background-color: #f7f7f7;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    margin-top: 10px;
+    border-top: 2px dashed black;
+}
+
+.nav {
+    position: relative;
+    text-align: center;
+    margin-top: 0%;
+    word-spacing: 40px;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#a1 {
+    color: black;
+    text-decoration: none;
+    display: block;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+.email,
+.link,
+.ph,
+.git {
+    padding: 50px;
+    display: inline-block;
+    margin-top: 10px;
+}

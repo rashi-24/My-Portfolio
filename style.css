@@ -1,0 +1,101 @@
+body {
+    background-color: #f7f7f7;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin-top: 50px;
+    display: block;
+    margin-left: 500px;
+}
+
+li {
+    font-weight: bold;
+    color: #D61C4E
+}
+
+#p1 {
+    font-weight: bold;
+    color: #D61C4E
+}
+
+p {
+    font-weight: bolder;
+}
+
+.pic {
+    margin-top: 50px;
+}
+
+.intro {
+    position: absolute;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 530px;
+}
+
+#s1 {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.nav {
+    position: relative;
+    text-align: center;
+    margin-top: 0%;
+    word-spacing: 40px;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+.skills {
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    width: 250px;
+}
+
+#h1 {
+    font-weight: bolder;
+    text-align: left;
+    color: black;
+}
+
+#h2 {
+    font-weight: bolder;
+    text-align: right;
+    color: black;
+}
+
+.experience {
+    position: absolute;
+    top: 120px;
+    left: 990px;
+    text-align: right;
+    width: 250px;
+}
+
+.lang {
+    position: absolute;
+    top: 370px;
+    left: 30px;
+    width: 250px;
+}
+
+.hobby {
+    position: absolute;
+    top: 370px;
+    left: 1090px;
+}

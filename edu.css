@@ -1,0 +1,53 @@
+body {
+    background-color: #f7f7f7;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    position: relative;
+    text-align: center;
+    margin-top: 0%;
+    word-spacing: 40px;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+#a1 {
+    color: blue;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+hr {
+    margin-top: 10px;
+    border-top: 2px dashed black;
+}
+
+.college {
+    margin-left: 90px;
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bolder;
+    font-style: italic;
+    text-decoration: underline;
+    color: #151515;
+}
+
+.school {
+    margin-left: 90px;
+    font-weight: bold;
+}
